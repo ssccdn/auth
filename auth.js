@@ -1,4 +1,4 @@
-window.MrTangAuth = [
+window.MrTangDomain = [
 	"wtool.com.cn",
 	"obfuscator.pro",
 	"false.plus",
